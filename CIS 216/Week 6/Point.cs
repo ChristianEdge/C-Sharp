@@ -24,7 +24,8 @@ class Point
     //no parameters constructor, member #3
     public Point()
     {
-        //Use setters setX() & setY()
+        x = 1;
+        y = 1;
     }
 
 
